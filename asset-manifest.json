@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "//ritik-078.github.io/Dukaan-Assignment/static/css/main.4ceb8627.css",
+    "main.js": "//ritik-078.github.io/Dukaan-Assignment/static/js/main.601c474b.js",
+    "static/js/787.0e1021e6.chunk.js": "//ritik-078.github.io/Dukaan-Assignment/static/js/787.0e1021e6.chunk.js",
+    "static/media/delivery.svg": "//ritik-078.github.io/Dukaan-Assignment/static/media/delivery.046d3b91546d000b0abdcd0b48b254d8.svg",
+    "static/media/appearance.svg": "//ritik-078.github.io/Dukaan-Assignment/static/media/appearance.00ceaf4601e7c72fef325bca98b095c2.svg",
+    "index.html": "//ritik-078.github.io/Dukaan-Assignment/index.html",
+    "static/media/orders.svg": "//ritik-078.github.io/Dukaan-Assignment/static/media/orders.77e195d1991a98ddd0ebce8c13f5acb6.svg",
+    "static/media/products.svg": "//ritik-078.github.io/Dukaan-Assignment/static/media/products.43b4c79f8dbca948c0048a5dea49817e.svg",
+    "static/media/analytics.svg": "//ritik-078.github.io/Dukaan-Assignment/static/media/analytics.2435e46b56cd2ed41136022a6f9203b3.svg",
+    "static/media/audience.svg": "//ritik-078.github.io/Dukaan-Assignment/static/media/audience.f6fd77a89b914b2438a25489e903b4ef.svg",
+    "static/media/discounts.svg": "//ritik-078.github.io/Dukaan-Assignment/static/media/discounts.4cfc963f1e10945ae4b8ac130007831e.svg",
+    "static/media/marketing.svg": "//ritik-078.github.io/Dukaan-Assignment/static/media/marketing.30974fd7870f5295be2e32e53a3a8cf7.svg",
+    "static/media/home.svg": "//ritik-078.github.io/Dukaan-Assignment/static/media/home.061e9ac5c1ce464bfe7b304005c1fb30.svg",
+    "static/media/payments.svg": "//ritik-078.github.io/Dukaan-Assignment/static/media/payments.ca63e2e4ed3f6a3d28d6d70b69ed520b.svg",
+    "static/media/tools.svg": "//ritik-078.github.io/Dukaan-Assignment/static/media/tools.514d5a67998a8d58a54bb4a514613e4e.svg",
+    "static/media/plugins.svg": "//ritik-078.github.io/Dukaan-Assignment/static/media/plugins.c6ee44f8004edfde3f7645095729caf9.svg",
+    "main.4ceb8627.css.map": "//ritik-078.github.io/Dukaan-Assignment/static/css/main.4ceb8627.css.map",
+    "main.601c474b.js.map": "//ritik-078.github.io/Dukaan-Assignment/static/js/main.601c474b.js.map",
+    "787.0e1021e6.chunk.js.map": "//ritik-078.github.io/Dukaan-Assignment/static/js/787.0e1021e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ceb8627.css",
+    "static/js/main.601c474b.js"
+  ]
+}
